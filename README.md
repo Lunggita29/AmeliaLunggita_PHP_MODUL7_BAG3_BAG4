@@ -38,3 +38,9 @@ Hasil logout1
 
 Hasil logout2
 ![alt text](https://github.com/Lunggita29/AmeliaLunggita_PHP_MODUL7_BAG3_BAG4/blob/master/logout2.png)
+
+
+Ceritakan apa yang sudah kalian pelajari di modul ini.
+
+dalam modul ini saya mempelajari tentang bagaimana cara membuat database di php myAdmin
+lalu saya mempelajari tentang bagaimana cara membuat kode untuk melakukan aksi ubahdata, tambahdata, hapusdata, melakukan login, dan melakukan logout.. 
